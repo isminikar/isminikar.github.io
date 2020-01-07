@@ -1,6 +1,6 @@
 # isminikar.github.io
 
-the pdf file contains the <b> project </b> 
+the pdf file contains the project 
 
 
 
